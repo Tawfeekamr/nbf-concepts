@@ -1,1 +1,0 @@
-import{d as e}from"./button-H8kWbSly.js";import{t}from"./page-placeholder-ua4H9VQQ.js";var n=e(),r=()=>(0,n.jsx)(t,{title:`Departments`,description:`Departments, their Entra ID groups and default reviewers.`,ticket:`[Demo] Admin: departments, Entra group mapping & users`});export{r as component};

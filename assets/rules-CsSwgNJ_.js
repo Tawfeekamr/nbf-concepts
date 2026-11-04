@@ -1,1 +1,0 @@
-import{d as e}from"./button-H8kWbSly.js";import{t}from"./page-placeholder-ua4H9VQQ.js";var n=e(),r=()=>(0,n.jsx)(t,{title:`Rulebook`,description:`The 16 NBF issue domains and their rules.`,ticket:`[Demo] Admin: rulebook (16 domains)`});export{r as component};
