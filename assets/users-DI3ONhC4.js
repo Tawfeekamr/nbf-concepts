@@ -1,0 +1,1 @@
+import{d as e}from"./button-H8kWbSly.js";import{t}from"./page-placeholder-ua4H9VQQ.js";var n=e(),r=()=>(0,n.jsx)(t,{title:`Users`,description:`People from the bank directory and their roles.`,ticket:`[Demo] Admin: departments, Entra group mapping & users`});export{r as component};
