@@ -1,0 +1,1 @@
+import{d as e}from"./button-H8kWbSly.js";import{t}from"./_projectId-1i4IOlpR.js";import{n}from"./project-page-BUsJ4n_p.js";var r=e();function i(){return(0,r.jsx)(n,{projectId:t.useParams().projectId})}export{i as component};
